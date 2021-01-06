@@ -1,0 +1,10 @@
+body{
+    background: orange;
+}
+/* ID */
+#box{
+    background: white;
+    width: 800px;
+    margin: 100px auto; /*centered*/
+    padding: 50px;
+}
